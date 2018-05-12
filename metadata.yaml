@@ -1,0 +1,30 @@
+_repo: Miracles-and-Supernatural-Religion_26397
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whiton, James Morris
+    birthdate: 1833
+    deathdate: 1920
+    gutenberg_agent_id: '31977'
+    url: http://www.gutenberg.org/2009/agents/31977
+description: ''
+gutenberg_issued: '2008-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26397'
+  lccn: 03015248
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Miracles'
+- !lcsh 'Religion and science'
+- !lcsh 'Jesus Christ -- Miracles'
+- !lcc 'BT'
+- !lcsh 'Supernatural (Theology)'
+title: Miracles and Supernatural Religion
+url: http://www.gutenberg.org/ebooks/26397
